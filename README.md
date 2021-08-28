@@ -2,4 +2,4 @@
 
 # Run the script
 
-py compose.py
+    py compose.py
